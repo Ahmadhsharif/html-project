@@ -8,6 +8,18 @@
 --h2-font: 48x;
 --p-font: 18px;
 }
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+    html{
+        scroll-behavior: smooth;
+    }
+    
+
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
